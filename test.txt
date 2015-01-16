@@ -17,3 +17,4 @@ change 4R on remote
 
 change 5L for child1
 
+change 6R on child1
